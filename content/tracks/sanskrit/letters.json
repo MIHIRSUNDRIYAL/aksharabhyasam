@@ -1,0 +1,66 @@
+{
+  "a": {
+    "id": "a", "character": "अ", "category": "vowel", "transliteration": "a",
+    "label": { "en": "a", "hi": "अ", "sa": "अकारः" }, "themeColor": "#a78bfa"
+  },
+  "aa": {
+    "id": "aa", "character": "आ", "category": "vowel", "transliteration": "aa",
+    "label": { "en": "aa", "hi": "आ", "sa": "आकारः" }, "themeColor": "#818cf8"
+  },
+  "i": {
+    "id": "i", "character": "इ", "category": "vowel", "transliteration": "i",
+    "label": { "en": "i", "hi": "इ", "sa": "इकारः" }, "themeColor": "#38bdf8"
+  },
+  "ii": {
+    "id": "ii", "character": "ई", "category": "vowel", "transliteration": "ii",
+    "label": { "en": "ii", "hi": "ई", "sa": "ईकारः" }, "themeColor": "#2dd4bf"
+  },
+  "u": {
+    "id": "u", "character": "उ", "category": "vowel", "transliteration": "u",
+    "label": { "en": "u", "hi": "उ", "sa": "उकारः" }, "themeColor": "#4ade80"
+  },
+  "uu": {
+    "id": "uu", "character": "ऊ", "category": "vowel", "transliteration": "uu",
+    "label": { "en": "uu", "hi": "ऊ", "sa": "ऊकारः" }, "themeColor": "#34d399"
+  },
+  "r-vocalic": {
+    "id": "r-vocalic", "character": "ऋ", "category": "vowel", "transliteration": "ri",
+    "label": { "en": "ri", "hi": "ऋ", "sa": "ऋकारः" }, "themeColor": "#facc15"
+  },
+  "rr-vocalic": {
+    "id": "rr-vocalic", "character": "ॠ", "category": "vowel", "transliteration": "rri",
+    "label": { "en": "rri", "hi": "ॠ", "sa": "ॠकारः" }, "themeColor": "#fbbf24"
+  },
+  "l-vocalic": {
+    "id": "l-vocalic", "character": "ऌ", "category": "vowel", "transliteration": "li",
+    "label": { "en": "li", "hi": "ऌ", "sa": "ऌकारः" }, "themeColor": "#f472b6"
+  },
+  "ll-vocalic": {
+    "id": "ll-vocalic", "character": "ॡ", "category": "vowel", "transliteration": "lli",
+    "label": { "en": "lli", "hi": "ॡ", "sa": "ॡकारः" }, "themeColor": "#fb7185"
+  },
+  "e": {
+    "id": "e", "character": "ए", "category": "vowel", "transliteration": "e",
+    "label": { "en": "e", "hi": "ए", "sa": "एकारः" }, "themeColor": "#f87171"
+  },
+  "ai": {
+    "id": "ai", "character": "ऐ", "category": "vowel", "transliteration": "ai",
+    "label": { "en": "ai", "hi": "ऐ", "sa": "ऐकारः" }, "themeColor": "#fb923c"
+  },
+  "o": {
+    "id": "o", "character": "ओ", "category": "vowel", "transliteration": "o",
+    "label": { "en": "o", "hi": "ओ", "sa": "ओकारः" }, "themeColor": "#60a5fa"
+  },
+  "au": {
+    "id": "au", "character": "औ", "category": "vowel", "transliteration": "au",
+    "label": { "en": "au", "hi": "औ", "sa": "औकारः" }, "themeColor": "#c084fc"
+  },
+  "anusvara": {
+    "id": "anusvara", "character": "अं", "category": "vowel", "transliteration": "am",
+    "label": { "en": "am", "hi": "अं", "sa": "अनुस्वारः" }, "themeColor": "#22d3ee"
+  },
+  "visarga": {
+    "id": "visarga", "character": "अः", "category": "vowel", "transliteration": "ah",
+    "label": { "en": "ah", "hi": "अः", "sa": "विसर्गः" }, "themeColor": "#34d399"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "hindi",
+  "title": { "en": "Hindi Letters", "hi": "हिन्दी अक्षर", "sa": "हिन्दी-वर्णाः" },
+  "shortDescription": {
+    "en": "Learn to write the vowels of the Hindi alphabet.",
+    "hi": "हिन्दी वर्णमाला के स्वर लिखना सीखें।",
+    "sa": "हिन्दीवर्णमालायाः स्वरान् लेखितुं शिक्षध्वम्।"
+  },
+  "themeColor": "#f97316",
+  "ageRange": "4-8",
+  "letterOrder": [
+    "a", "aa", "i", "ii", "u", "uu", "r-vocalic",
+    "e", "ai", "o", "au", "anusvara", "visarga"
+  ]
+}

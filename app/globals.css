@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fbfaff;
+  --foreground: #1f2937;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-body);
+  --font-body: var(--font-body);
+  --font-heading: var(--font-heading);
+  --font-devanagari: var(--font-devanagari);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+/* Devanagari text (Hindi/Sanskrit) reads better a touch larger with more
+   line-height, since conjunct clusters are easy to misjudge otherwise. */
+:lang(hi),
+:lang(sa) {
+  line-height: 1.9;
+}
