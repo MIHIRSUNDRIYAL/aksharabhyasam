@@ -2,15 +2,23 @@
   "slug": "sanskrit",
   "title": { "en": "Sanskrit Letters", "hi": "संस्कृत अक्षर", "sa": "संस्कृतवर्णाः" },
   "shortDescription": {
-    "en": "Learn to write the vowels of the Sanskrit alphabet.",
-    "hi": "संस्कृत वर्णमाला के स्वर लिखना सीखें।",
-    "sa": "संस्कृतवर्णमालायाः स्वरान् लेखितुं शिक्षध्वम्।"
+    "en": "Learn to write the vowels and consonants of the Sanskrit alphabet.",
+    "hi": "संस्कृत वर्णमाला के स्वर और व्यंजन लिखना सीखें।",
+    "sa": "संस्कृतवर्णमालायाः स्वरान् व्यञ्जनानि च लेखितुं शिक्षध्वम्।"
   },
   "themeColor": "#7c3aed",
   "ageRange": "5-10",
   "letterOrder": [
     "a", "aa", "i", "ii", "u", "uu",
     "r-vocalic", "rr-vocalic", "l-vocalic", "ll-vocalic",
-    "e", "ai", "o", "au", "anusvara", "visarga"
+    "e", "ai", "o", "au", "anusvara", "visarga",
+    "ka", "kha", "ga", "gha", "nga",
+    "cha", "chha", "ja", "jha", "nya",
+    "tta", "ttha", "dda", "ddha", "nna",
+    "ta", "tha", "da", "dha", "na",
+    "pa", "pha", "ba", "bha", "ma",
+    "ya", "ra", "la", "va",
+    "sha", "ssa", "sa", "ha",
+    "ksha", "tra", "jna"
   ]
 }

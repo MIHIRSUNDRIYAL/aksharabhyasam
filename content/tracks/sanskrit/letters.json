@@ -62,5 +62,149 @@
   "visarga": {
     "id": "visarga", "character": "अः", "category": "vowel", "transliteration": "ah",
     "label": { "en": "ah", "hi": "अः", "sa": "विसर्गः" }, "themeColor": "#34d399"
+  },
+  "ka": {
+    "id": "ka", "character": "क", "category": "consonant", "transliteration": "ka",
+    "label": { "en": "ka", "hi": "क", "sa": "ककारः" }, "themeColor": "#fb923c"
+  },
+  "kha": {
+    "id": "kha", "character": "ख", "category": "consonant", "transliteration": "kha",
+    "label": { "en": "kha", "hi": "ख", "sa": "खकारः" }, "themeColor": "#38bdf8"
+  },
+  "ga": {
+    "id": "ga", "character": "ग", "category": "consonant", "transliteration": "ga",
+    "label": { "en": "ga", "hi": "ग", "sa": "गकारः" }, "themeColor": "#a78bfa"
+  },
+  "gha": {
+    "id": "gha", "character": "घ", "category": "consonant", "transliteration": "gha",
+    "label": { "en": "gha", "hi": "घ", "sa": "घकारः" }, "themeColor": "#4ade80"
+  },
+  "nga": {
+    "id": "nga", "character": "ङ", "category": "consonant", "transliteration": "nga",
+    "label": { "en": "nga", "hi": "ङ", "sa": "ङकारः" }, "themeColor": "#f472b6"
+  },
+  "cha": {
+    "id": "cha", "character": "च", "category": "consonant", "transliteration": "cha",
+    "label": { "en": "cha", "hi": "च", "sa": "चकारः" }, "themeColor": "#facc15"
+  },
+  "chha": {
+    "id": "chha", "character": "छ", "category": "consonant", "transliteration": "chha",
+    "label": { "en": "chha", "hi": "छ", "sa": "छकारः" }, "themeColor": "#2dd4bf"
+  },
+  "ja": {
+    "id": "ja", "character": "ज", "category": "consonant", "transliteration": "ja",
+    "label": { "en": "ja", "hi": "ज", "sa": "जकारः" }, "themeColor": "#f87171"
+  },
+  "jha": {
+    "id": "jha", "character": "झ", "category": "consonant", "transliteration": "jha",
+    "label": { "en": "jha", "hi": "झ", "sa": "झकारः" }, "themeColor": "#818cf8"
+  },
+  "nya": {
+    "id": "nya", "character": "ञ", "category": "consonant", "transliteration": "nya",
+    "label": { "en": "nya", "hi": "ञ", "sa": "ञकारः" }, "themeColor": "#fb7185"
+  },
+  "tta": {
+    "id": "tta", "character": "ट", "category": "consonant", "transliteration": "Ta",
+    "label": { "en": "Ta", "hi": "ट", "sa": "टकारः" }, "themeColor": "#34d399"
+  },
+  "ttha": {
+    "id": "ttha", "character": "ठ", "category": "consonant", "transliteration": "Tha",
+    "label": { "en": "Tha", "hi": "ठ", "sa": "ठकारः" }, "themeColor": "#fbbf24"
+  },
+  "dda": {
+    "id": "dda", "character": "ड", "category": "consonant", "transliteration": "Da",
+    "label": { "en": "Da", "hi": "ड", "sa": "डकारः" }, "themeColor": "#60a5fa"
+  },
+  "ddha": {
+    "id": "ddha", "character": "ढ", "category": "consonant", "transliteration": "Dha",
+    "label": { "en": "Dha", "hi": "ढ", "sa": "ढकारः" }, "themeColor": "#c084fc"
+  },
+  "nna": {
+    "id": "nna", "character": "ण", "category": "consonant", "transliteration": "Na",
+    "label": { "en": "Na", "hi": "ण", "sa": "णकारः" }, "themeColor": "#22d3ee"
+  },
+  "ta": {
+    "id": "ta", "character": "त", "category": "consonant", "transliteration": "ta",
+    "label": { "en": "ta", "hi": "त", "sa": "तकारः" }, "themeColor": "#f97316"
+  },
+  "tha": {
+    "id": "tha", "character": "थ", "category": "consonant", "transliteration": "tha",
+    "label": { "en": "tha", "hi": "थ", "sa": "थकारः" }, "themeColor": "#84cc16"
+  },
+  "da": {
+    "id": "da", "character": "द", "category": "consonant", "transliteration": "da",
+    "label": { "en": "da", "hi": "द", "sa": "दकारः" }, "themeColor": "#e879f9"
+  },
+  "dha": {
+    "id": "dha", "character": "ध", "category": "consonant", "transliteration": "dha",
+    "label": { "en": "dha", "hi": "ध", "sa": "धकारः" }, "themeColor": "#fb923c"
+  },
+  "na": {
+    "id": "na", "character": "न", "category": "consonant", "transliteration": "na",
+    "label": { "en": "na", "hi": "न", "sa": "नकारः" }, "themeColor": "#38bdf8"
+  },
+  "pa": {
+    "id": "pa", "character": "प", "category": "consonant", "transliteration": "pa",
+    "label": { "en": "pa", "hi": "प", "sa": "पकारः" }, "themeColor": "#a78bfa"
+  },
+  "pha": {
+    "id": "pha", "character": "फ", "category": "consonant", "transliteration": "pha",
+    "label": { "en": "pha", "hi": "फ", "sa": "फकारः" }, "themeColor": "#4ade80"
+  },
+  "ba": {
+    "id": "ba", "character": "ब", "category": "consonant", "transliteration": "ba",
+    "label": { "en": "ba", "hi": "ब", "sa": "बकारः" }, "themeColor": "#f472b6"
+  },
+  "bha": {
+    "id": "bha", "character": "भ", "category": "consonant", "transliteration": "bha",
+    "label": { "en": "bha", "hi": "भ", "sa": "भकारः" }, "themeColor": "#facc15"
+  },
+  "ma": {
+    "id": "ma", "character": "म", "category": "consonant", "transliteration": "ma",
+    "label": { "en": "ma", "hi": "म", "sa": "मकारः" }, "themeColor": "#2dd4bf"
+  },
+  "ya": {
+    "id": "ya", "character": "य", "category": "consonant", "transliteration": "ya",
+    "label": { "en": "ya", "hi": "य", "sa": "यकारः" }, "themeColor": "#f87171"
+  },
+  "ra": {
+    "id": "ra", "character": "र", "category": "consonant", "transliteration": "ra",
+    "label": { "en": "ra", "hi": "र", "sa": "रकारः" }, "themeColor": "#818cf8"
+  },
+  "la": {
+    "id": "la", "character": "ल", "category": "consonant", "transliteration": "la",
+    "label": { "en": "la", "hi": "ल", "sa": "लकारः" }, "themeColor": "#fb7185"
+  },
+  "va": {
+    "id": "va", "character": "व", "category": "consonant", "transliteration": "va",
+    "label": { "en": "va", "hi": "व", "sa": "वकारः" }, "themeColor": "#34d399"
+  },
+  "sha": {
+    "id": "sha", "character": "श", "category": "consonant", "transliteration": "sha",
+    "label": { "en": "sha", "hi": "श", "sa": "शकारः" }, "themeColor": "#fbbf24"
+  },
+  "ssa": {
+    "id": "ssa", "character": "ष", "category": "consonant", "transliteration": "Sha",
+    "label": { "en": "Sha", "hi": "ष", "sa": "षकारः" }, "themeColor": "#60a5fa"
+  },
+  "sa": {
+    "id": "sa", "character": "स", "category": "consonant", "transliteration": "sa",
+    "label": { "en": "sa", "hi": "स", "sa": "सकारः" }, "themeColor": "#c084fc"
+  },
+  "ha": {
+    "id": "ha", "character": "ह", "category": "consonant", "transliteration": "ha",
+    "label": { "en": "ha", "hi": "ह", "sa": "हकारः" }, "themeColor": "#22d3ee"
+  },
+  "ksha": {
+    "id": "ksha", "character": "क्ष", "category": "consonant", "transliteration": "ksha",
+    "label": { "en": "ksha", "hi": "क्ष", "sa": "क्षकारः" }, "themeColor": "#f97316"
+  },
+  "tra": {
+    "id": "tra", "character": "त्र", "category": "consonant", "transliteration": "tra",
+    "label": { "en": "tra", "hi": "त्र", "sa": "त्रकारः" }, "themeColor": "#84cc16"
+  },
+  "jna": {
+    "id": "jna", "character": "ज्ञ", "category": "consonant", "transliteration": "jna",
+    "label": { "en": "jna", "hi": "ज्ञ", "sa": "ज्ञकारः" }, "themeColor": "#e879f9"
   }
 }

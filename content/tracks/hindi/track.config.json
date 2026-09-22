@@ -2,14 +2,22 @@
   "slug": "hindi",
   "title": { "en": "Hindi Letters", "hi": "हिन्दी अक्षर", "sa": "हिन्दी-वर्णाः" },
   "shortDescription": {
-    "en": "Learn to write the vowels of the Hindi alphabet.",
-    "hi": "हिन्दी वर्णमाला के स्वर लिखना सीखें।",
-    "sa": "हिन्दीवर्णमालायाः स्वरान् लेखितुं शिक्षध्वम्।"
+    "en": "Learn to write the vowels and consonants of the Hindi alphabet.",
+    "hi": "हिन्दी वर्णमाला के स्वर और व्यंजन लिखना सीखें।",
+    "sa": "हिन्दीवर्णमालायाः स्वरान् व्यञ्जनानि च लेखितुं शिक्षध्वम्।"
   },
   "themeColor": "#f97316",
   "ageRange": "4-8",
   "letterOrder": [
     "a", "aa", "i", "ii", "u", "uu", "r-vocalic",
-    "e", "ai", "o", "au", "anusvara", "visarga"
+    "e", "ai", "o", "au", "anusvara", "visarga",
+    "ka", "kha", "ga", "gha", "nga",
+    "cha", "chha", "ja", "jha", "nya",
+    "tta", "ttha", "dda", "ddha", "nna",
+    "ta", "tha", "da", "dha", "na",
+    "pa", "pha", "ba", "bha", "ma",
+    "ya", "ra", "la", "va",
+    "sha", "ssa", "sa", "ha",
+    "ksha", "tra", "jna"
   ]
 }

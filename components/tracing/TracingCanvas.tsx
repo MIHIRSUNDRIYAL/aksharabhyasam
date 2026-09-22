@@ -17,6 +17,7 @@ import {
   type ReferenceMasks,
 } from "@/components/tracing/tracingScoring";
 import { FeedbackBanner } from "@/components/tracing/FeedbackBanner";
+import { celebrate } from "@/components/tracing/celebrate";
 
 export interface TracingCanvasProps {
   /** The Devanagari character to trace, e.g. "अ". */
@@ -141,6 +142,10 @@ export function TracingCanvas({ character, onScored, strings }: TracingCanvasPro
     const tier = scoreToTier(score);
     setFeedback({ tier, score });
     onScored?.(score);
+
+    if (tier === "great") {
+      celebrate();
+    }
   }
 
   return (
